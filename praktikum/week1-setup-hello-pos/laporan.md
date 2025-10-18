@@ -57,7 +57,14 @@ List<String> produk = Arrays.asList("Kacang", "Kedelai", "Cabai");
 ---
 
 ## Hasil Eksekusi
+[Screeshots hasil Procedural]
+( !(Screenshots/Procedural.png))
 
+[Screeshots hasil HelloOOP]
+( !(Screenshots/HelloOOP.png))
+
+[Screeshots hasil Functional]
+( !(Screenshots/Functional.png))
 ---
 
 ## Analisis
