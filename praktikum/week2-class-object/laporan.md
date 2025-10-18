@@ -56,17 +56,18 @@ public static void main(String[] args) {
 ---
 
 ## Hasil Eksekusi
-![alt text](<Screenshot 2025-10-18 131102.png>)
+<img width="1331" height="402" alt="Screenshot 2025-10-18 131102" src="https://github.com/user-attachments/assets/c999a285-8e67-43bd-bea0-ba55b7b773d1" />
+
 ---
 
 ## Analisis
->Jalannya Kode
+1. Jalannya Kode
 Pada program minggu ini, kode berjalan dengan menggunakan pendekatan class dan object. Class Produk didefinisikan sebagai blueprint (cetakan) dari sebuah produk yang memiliki atribut seperti kode, nama, harga, dan stok. Kemudian, object dapat dibuat dari class ini untuk merepresentasikan produk-produk nyata. Constructor digunakan untuk menginisialisasi data saat object dibuat, dan method getter serta setter digunakan untuk mengakses dan mengubah data tersebut dengan cara yang terkontrol.
 
->Perbedaan Pendekatan Minggu Ini Dibanding Minggu Sebelumnya
+2. Perbedaan Pendekatan Minggu Ini Dibanding Minggu Sebelumnya
 Minggu ini menggunakan pendekatan class dan object, sedangkan minggu sebelumnya masih menggunakan pendekatan prosedural. Dengan OOP, program menjadi lebih modular, terstruktur, dan mudah dikembangkan karena data dan perilaku disatukan dalam satu kesatuan (object). Hal ini berbeda dengan pendekatan prosedural yang cenderung menuliskan logika program secara langsung tanpa struktur yang jelas.
 
->Kendala yang Dihadapi dan Cara Mengatasinya
+3. Kendala yang Dihadapi dan Cara Mengatasinya
 Kendala utama yang dihadapi adalah kesalahan penulisan package yang tidak sesuai dengan struktur folder, sehingga menyebabkan error saat kompilasi dan eksekusi program. Selain itu, menjalankan file Java dengan package memerlukan pemahaman tambahan tentang struktur direktori dan perintah javac serta java yang tepat.
 Cara mengatasinya adalah dengan memastikan bahwa deklarasi package sesuai dengan folder tempat file berada, dan menjalankan perintah javac serta java dari root folder src/main/java menggunakan path lengkap ke class-nya.
 ---
