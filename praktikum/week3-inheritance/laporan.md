@@ -78,7 +78,8 @@ public class CreditBy {
 ---
 
 ## Hasil Eksekusi
-c:\Users\ACER\Downloads\oop\Screenshot 2025-10-26 205101.png
+<img width="1071" height="306" alt="Screenshot 2025-10-26 205101" src="https://github.com/user-attachments/assets/959b3590-7fc0-4f96-89a6-63c05e75a187" />
+
 ---
 
 ## Jalannya Kode Program:
