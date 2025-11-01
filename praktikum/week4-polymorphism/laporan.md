@@ -94,9 +94,8 @@ public static void main(String[] args) {
 ---
 
 ## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil](screenshots/hasil.png)
-)
+<img width="1134" height="286" alt="Screenshot 2025-11-01 130433" src="https://github.com/user-attachments/assets/e94a0e24-e6c2-4e3f-bce8-39bcc9396854" />
+
 ---
 
 ## Analisis
