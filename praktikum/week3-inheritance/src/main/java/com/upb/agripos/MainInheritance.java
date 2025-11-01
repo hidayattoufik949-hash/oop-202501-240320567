@@ -3,7 +3,6 @@ package main.java.com.upb.agripos;
 import main.java.com.upb.agripos.model.Alat;
 import main.java.com.upb.agripos.model.BenihKacang;
 import main.java.com.upb.agripos.model.PupukUrea;
-import util.CreditBy;
 
 public class MainInheritance {
     public static void main(String[] args) {
@@ -15,7 +14,7 @@ public class MainInheritance {
         System.out.println("Pupuk Urea: " + p.getNama() + " Jenis: " + p.getJenis());
         System.out.println("Sabit Padi: " + a.getNama() + " Material: " + a.getMaterial());
 
-        // Tampilkan identitas mahasiswa nama dan nim
-        CreditBy.print("Toufik Nur Hidayat", "240320567");
+    // Tampilkan identitas mahasiswa nama dan nim
+    main.java.com.upb.agripos.util.CreditBy.print("Toufik Nur Hidayat", "240320567");
     }
 }

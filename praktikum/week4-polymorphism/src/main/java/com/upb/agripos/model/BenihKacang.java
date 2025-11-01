@@ -10,6 +10,6 @@ public class BenihKacang extends Produk {
 
     @Override
     public String getInfo() {
-        return "Benih: " + super.getInfo() + ", Varietas: " + varietas;
+        return "Benih Kacang: " + super.getInfo() + ", Varietas: " + varietas;
     }
 }
