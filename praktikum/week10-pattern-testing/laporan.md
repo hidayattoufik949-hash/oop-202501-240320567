@@ -138,6 +138,7 @@ public class AppMVC {
 }
 ---
 ##Hasil Eksekusi
+![week10-oop](https://github.com/user-attachments/assets/fe916054-dd2c-43c7-b51a-13f84ce025a9)
 
 
 ## Analisis
