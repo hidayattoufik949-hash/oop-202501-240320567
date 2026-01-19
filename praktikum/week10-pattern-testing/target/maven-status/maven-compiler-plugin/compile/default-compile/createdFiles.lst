@@ -1,0 +1,5 @@
+main\java\com\upb\agripos\AppMVC.class
+main\java\com\upb\agripos\config\DatabaseConnection.class
+main\java\com\upb\agripos\controller\ProductController.class
+main\java\com\upb\agripos\model\Product.class
+main\java\com\upb\agripos\view\ConsoleView.class
