@@ -43,9 +43,8 @@ System.out.println(p1.getNama());
 ---
 
 ## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil](screenshots/hasil.png)
-)
+![oop week 11](https://github.com/user-attachments/assets/691d596e-2db5-4b52-a90a-f51e1bca2b6d)
+
 ---
 
 ## Analisis
